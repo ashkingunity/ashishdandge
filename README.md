@@ -30,7 +30,7 @@
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashkingunity/ashishdandge/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashkingunity/ashishdandge/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashkingunity/ashkingunity/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashkingunity/ashkingunity/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/riken96/riken96/output/github-snake.svg" />
 </picture>
